@@ -367,7 +367,7 @@ ul li {
 @media screen and (min-width: 1440px) {
  .block_maintenance {
  
-    padding: 20px 150px 10px 150px;
+    padding: 20px 100px 10px 100px;
   }
 }
 

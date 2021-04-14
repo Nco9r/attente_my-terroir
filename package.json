@@ -1,7 +1,7 @@
 {
-  "name": "attente_myterroir",
+  "name": "myterroir",
   "version": "1.0.0",
-  "description": "My epic Nuxt.js project",
+  "description": "My-Terroir vous propose son expertise en matière de produits de terroir, fromages, charcuteries et viandes. Découvrez également les prestations traiteur des produits de terroir.",
   "author": "Nicolas ROUX",
   "private": true,
   "scripts": {
