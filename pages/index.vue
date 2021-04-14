@@ -39,14 +39,14 @@
          </ul>
          <p>À bientôt chez <strong>My-Terroir</strong> <span class="orange">!</span> </p>
          <div class="btn_menu">
-              <a href="https://www.instagram.com/myterroir/" target="_blank"><button> <svg xmlns="http://www.w3.org/2000/svg" width="23.242" height="16.215" viewBox="0 0 23.242 16.215">
+              <a href="https://www.instagram.com/myterroir/" target="_blank" rel="noopener"><button> <svg xmlns="http://www.w3.org/2000/svg" width="23.242" height="16.215" viewBox="0 0 23.242 16.215">
                 <path id="Tracé_1781" data-name="Tracé 1781" d="M-15.034,32.87c.209-4.165,2.718-6.645,6.452-6.97V23.6c-3.734-.325-6.244-2.777-6.452-6.941l-2.779.591a7.99,7.99,0,0,0,1.584,4.046,6.322,6.322,0,0,0,3.166,2.3H-31.823v2.3h18.761a6.21,6.21,0,0,0-3.166,2.333,7.994,7.994,0,0,0-1.584,4.017Z" transform="translate(31.823 -16.655)" fill="#fff"/>
                 </svg>Cliquez ici</button></a>
           </div>
        </div>
      </div>
      <div class="copyright">
-       <p><strong>©2021</strong> - My_Terroir - Conception <strong><a href="https://rouxnicolas.fr" target="_blank">Nicolas ROUX.</a></strong></p>
+       <p><strong>©2021</strong> - My_Terroir - Conception <strong><a href="https://rouxnicolas.fr" target="_blank" rel="noopener">Nicolas ROUX.</a></strong></p>
        <div class="icon_sociaux">
                         <svg xmlns="http://www.w3.org/2000/svg" width="8.434" height="18.359" viewBox="0 0 8.434 18.359">
                             <path id="facebook_3_" data-name="facebook (3)" d="M13.082,3.048h1.54V.129A18.288,18.288,0,0,0,12.378,0c-2.22,0-3.741,1.52-3.741,4.314V6.885H6.187v3.263h2.45v8.211h3v-8.21h2.351l.373-3.263H11.64V4.637C11.641,3.694,11.874,3.048,13.082,3.048Z" transform="translate(-6.187)" fill="#fff"/>
