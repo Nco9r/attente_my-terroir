@@ -130,7 +130,7 @@ a {
   background-image: url('~assets/brasero.jpg');
   width: 100%;
   height: 100vh;
-  background-position: -400px ;
+  background-position: -450px ;
   background-size: cover;
   background-repeat: no-repeat;
   display: flex; 
@@ -138,7 +138,7 @@ a {
 
 .cover_block {
   width: 340px; 
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.753);
   display: flex; 
   flex-flow: column;
   margin: auto;
@@ -311,7 +311,6 @@ ul li {
 @media screen and (min-width: 768px) {
   .cover_block {
     width: 640px; 
-    background-color: white;
     display: flex; 
     flex-flow: column;
     margin: auto;
