@@ -78,6 +78,32 @@
 
 
 export default {
+   head: {
+    title: 'Produits artisanaux et cuisine de terroir',
+    meta: [
+      { hid: 'title', name: 'title', content: 'My-Terroir || Produits de terroir.'},
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { hid: 'description', name: 'description', content: 'My-Terroir vous propose son expertise en matière de produits de terroir, fromages, charcuteries et viandes. Découvrez également les prestations traiteur des produits de terroir.'},
+      { name: 'keywords', content: 'terroir, traiteur, produits, fromages, charcuteries, charcuterie, fromage, viande, viandes, cuisine, producteurs, mariage, réception, séminaire. '},
+      { hid: 'image', name: 'image', content: './static/icon.png'},
+      {
+        hid: 'og:title',
+        property: 'og:title',
+        content: 'Produits artisanaux et cuisine de terroir'
+      },
+      {
+        hid: 'og:description',
+        property: 'og:description',
+        content: 'My-Terroir vous propose son expertise en matière de produits de terroir, fromages, charcuteries et viandes. Découvrez également les prestations traiteur des produits de terroir.'
+      },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: './static/icon.png'
+      },
+    ],
+  },
   components: {
    
   }
@@ -101,8 +127,8 @@ a {
 }
 
 .block_description {
-  background-image: url('~assets/pig.jpg');
-  width: 100%; 
+  background-image: url('~assets/brasero.jpg');
+  width: 100%;
   height: 100vh;
   background-position: -400px ;
   background-size: cover;
@@ -293,7 +319,7 @@ ul li {
   }
 
   .block_description {
-  background-image: url('~assets/pig.jpg');
+  background-image: url('~assets/brasero.jpg');
   background-position: 0px;
   background-size: 100%;
   background-size: cover;
