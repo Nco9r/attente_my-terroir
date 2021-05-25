@@ -22,6 +22,31 @@ body {
   overflow-x: hidden;
 
 }
+
+@font-face {
+  font-family: 'Pontiac';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('~assets/font/Pontiac.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins-bold';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('~assets/font/Poppins-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins-regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/font/Poppins-Regular.ttf') format('truetype');
+}
+
 *,
 *:before,
 *:after {
@@ -38,7 +63,7 @@ body {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: bebas-neue-pro, sans-serif; 
+  font-family: Pontiac, sans-serif; 
   color: var(--black);
   text-transform: uppercase;
 }

@@ -3,7 +3,7 @@
    <div class="block_description">
      <div class="cover_block">
        <div class="logo">
-         <img src="@/assets/logo_MT.svg" alt="">
+         <img src="@/assets/logo_V2_MT.svg" alt="">
        </div>
        <div class="title_mt">
          <h1>traiteur, fromages, charcuteries et viandes de producteurs <span class="orange">!</span>  </h1>
@@ -138,7 +138,7 @@ a {
 
 .cover_block {
   width: 340px; 
-  background-color: rgba(255, 255, 255, 0.753);
+  background-color: rgba(255, 255, 255, 0.87);
   display: flex; 
   flex-flow: column;
   margin: auto;
@@ -146,29 +146,32 @@ a {
 }
 
 .logo {
-  margin-top: -70px;
+  margin-top: -40px;
   text-align: center;
+  margin-bottom: 20px;
 }
 
 .logo img{
-  width: 150px;
+  width: 120px;
 }
 
 .title_mt h1{
   font-size: 26px;
   margin-bottom: 15px;
+  line-height: 36px;
 }
 
 .content_block p {
-  font-family: 'Bebas-neue-pro-expanded', sans-serif;
-  line-height: 24px;
+  font-family: 'Poppins-regular', sans-serif;
+  line-height: 26px;
+  font-size: 14px;
   margin-bottom: 15px;
 }
 
 .slogan p{
-  font-size: 26px;
+  font-size: 20px;
   margin-bottom: 15px;
-  font-family: bebas-neue-pro, sans-serif; 
+  font-family: 'Pontiac', sans-serif; 
   color: var(--black);
   text-transform: uppercase;
   margin-top: 10px;
@@ -215,8 +218,7 @@ a {
 .title_deg h2{
   color: white; 
   font-weight: lighter;
-  font-size: 50px;
-  display: f
+  font-size: 30px;
 }
 
 .content {
@@ -226,7 +228,7 @@ a {
 
 .content h3 {
   color: white;
-  font-size: 28px;
+  font-size: 26px;
   font-weight: lighter;
   margin-bottom: 15px;
   display: none;
@@ -234,19 +236,20 @@ a {
 }
 
 .content p {
+  font-family: 'Poppins-regular', sans-serif;
+  line-height: 26px;
   color: white;
-  font-family: 'Bebas-neue-pro-expanded', sans-serif;
-  line-height: 24px;
+  font-size: 14px;
   margin-bottom: 15px;
 }
 
 ul {
   color: var(--orange);
   font-weight: bold; 
-  font-family: 'Bebas-neue-pro', sans-serif;
-  line-height: 24px;
-  font-size: 20px;
-  margin-bottom: 20px;
+  font-family: 'Poppins-bold', sans-serif;
+  line-height: 26px;
+  font-size: 14px;
+  margin-bottom: 10px;
 
 }
 
@@ -266,16 +269,15 @@ ul li {
     padding: 8px 16px; 
     width: 250px;
     margin:  auto;
-    font-family: bebas-neue-pro, sans-serif; 
+    font-family: 'Poppins-regular', sans-serif; 
     background-color: var(--orange);
     box-shadow: 4px 4px rgba(218, 71, 9, 0.486);
     border: none;
     text-decoration: none;
     color: white;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold; 
     border: 30px var(--orange);
-    text-transform: uppercase;
     background-size: 60%;
     outline: none; 
     cursor: pointer;
@@ -293,8 +295,9 @@ ul li {
 
 .copyright p {
   color: white;
-  font-family: 'Bebas-neue-pro-expanded', sans-serif;
-  line-height: 24px;
+  font-family: 'Poppins-regular', sans-serif;
+  line-height: 26px;
+  font-size: 14px;
 }
 
 .icon_sociaux {
